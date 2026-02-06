@@ -8,7 +8,7 @@ A GenAI-powered contract analysis tool that extracts clauses, detects risky term
 ## 🔗 Links
 
 - 🌐 **Live App:** https://contract-risk-bot-11.streamlit.app
-- 🎥 **Demo Video:** https://drive.google.com/file/d/1EaBjvI4f2TiOQBcSNwIHNk7JgaCtnucu/view?usp=sharing
+- 🎥 **Demo Video:** https://drive.google.com/file/d/1EaBJvi4f2Ti0QBcSNwIHNk7JgaCtnucu/view?usp=drive_link
 - 💻 **GitHub Repo:** https://github.com/adityasingh-0803/contract-risk-bot
 
 
