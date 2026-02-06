@@ -1,5 +1,5 @@
 # 📄 Contract Analysis & Risk Assessment Bot
-
+A GenAI-powered contract analysis tool that extracts clauses, detects risky terms like penalties and indemnity, scores risk levels, and explains legal language in simple English. Helps SMEs review contracts faster and avoid hidden liabilities. 
 🔗 **Live App:** https://contract-risk-bot-11.streamlit.app  
 🎥 **Demo Video:** https://drive.google.com/file/d/1EaBJvi4f2Ti0QBcSNwIHNk7JgaCtnucu/view?usp=sharing 
 💻 **GitHub Repo:** https://github.com/adityasingh-0803/contract-risk-bot  
