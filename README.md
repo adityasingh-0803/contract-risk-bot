@@ -1,7 +1,7 @@
 # 📄 Contract Analysis & Risk Assessment Bot
 
 🔗 **Live App:** https://contract-risk-bot-11.streamlit.app  
-🎥 **Demo Video:** <paste-your-youtube-or-drive-link-here>  
+🎥 **Demo Video:** [<paste-your-youtube-or-drive-link-here> ](https://drive.google.com/file/d/1EaBJvi4f2Ti0QBcSNwIHNk7JgaCtnucu/view?usp=sharing) 
 💻 **GitHub Repo:** https://github.com/adityasingh-0803/contract-risk-bot  
 
 ---
